@@ -2,7 +2,7 @@
 A project based on Python and OpenCV which detects and recognizes aruco marker detects it and does its pose estimation with frame rate handling
 
 <p>
-  <img src="http://www.sahilkhosla.co.in/arucodetection/result.jpg">
+  <img src="http://www.sahilkhosla.co.in/arucodetection/result.jpg" align="center">
   </p>
   
 # Installation
